@@ -1,6 +1,6 @@
 
-# Coding Challenge  
-  
+# Elevator System
+
 Elevator control system for the company Wonderland.  
   
 ## Problem Specification  
